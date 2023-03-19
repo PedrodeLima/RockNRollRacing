@@ -1,0 +1,4 @@
+Line 57: Class MSWinsockLib.Winsock of control GetServerInfo was not a loaded control class.
+Line 73: Class MSWinsockLib.Winsock of control StringStream was not a loaded control class.
+Line 88: Class MSWinsockLib.Winsock of control DataStream was not a loaded control class.
+Line 111: Class MSWinsockLib.Winsock of control Winsock1 was not a loaded control class.
