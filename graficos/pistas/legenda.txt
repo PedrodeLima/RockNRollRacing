@@ -1,0 +1,14 @@
+retas
+branco
+amarelo
+
+rampa subindo
+vermelho
+violeta , no caso da rampa em subida for menos importante
+
+rampa descendo
+azul
+
+quinas
+cinza = quina interna
+laranja = quina externa
