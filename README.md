@@ -1,5 +1,26 @@
-# RockNRoll Racing VB6 
+# RockNRoll Racing VB6 Modo Multiplayer
 remake do jogo RockNRollRacing feito em VB6 (Visual Basic 6)
+Projeto meramente educacional e não comercial , que demostra conceitos de isometria, sprites, colisão entre objetos no plano espacial. Possuindo apenas 1 carro e 3 pistas para demonstração . 
+por motivo de direitos autorais , as trilhas sonoras não estão incluídas , somente os efeitos sonoros.
+Código fonte em linguagem visual Basic 6.
+
+# INSTALAR DLL binárias Windows
+Será necessária a biblioteca OCX winsock e a DLL directx7 para vb6 
+Após baixar este repositório,
+abra o CMD em modo administrador.
+vá para a pasta onde colocou os arquivos.
+digite regsvr32 mswinsck.ocx
+digite regsvr32 dx7vb.dll
+
+# Executar EXE
+Antes de rodar é preciso abrir o servidor
+Execute RRRServer.exe
+Será perguntando nome do servidor, número de voltas e número de participantes.
+
+Execute RNRacing.exe
+
+Para mudar o nome do jogador, pressione a tecla < ' > e digite name seu_apelido 
+
 ![rrr1](https://user-images.githubusercontent.com/25087767/226215653-15a9a186-e5d7-42fe-ad29-3946769a712d.png)
 
 Novas cores (RGB)
