@@ -3,6 +3,7 @@ remake do jogo RockNRollRacing feito em VB6 (Visual Basic 6)
 Projeto meramente educacional e não comercial , que demostra conceitos de isometria, sprites, colisão entre objetos no plano espacial. Possuindo apenas 1 carro e 3 pistas para demonstração . 
 por motivo de direitos autorais , as trilhas sonoras não estão incluídas , somente os efeitos sonoros.
 Código fonte em linguagem visual Basic 6.
+https://www.youtube.com/watch?v=jQW4QZeMVng
 
 # INSTALAR DLL binárias Windows
 Será necessária a biblioteca OCX winsock e a DLL directx7 para vb6 
@@ -33,3 +34,10 @@ Novas cores (RGB)
 Isometria e detecção de colisão 3D por vértices (vertex / vector collision)
 Carros , objetos na pista, pista, rampas etc possuem posicionamento espacial , x, y, z. Assim , é possivel saber se o carro está dentro ou fora da pista, se está em uma rampa, subindo ou descendo e em quantos graus, se colidiu com outro objeto na pista, como óleo, se colidiu no ar com outro objeto.
 ![r3](https://user-images.githubusercontent.com/25087767/226217416-2921f6db-349d-48cd-88ab-f330a781fc03.png)
+
+
+# MODO MULTIPLAYER
+São abertas 4 portas TCP
+O Ip padrão para conexão é 127.0.0.1
+para alterar o ip no qual o jogo deva se conectar , abra o arquivo servidor.txt e troque pelo ip ou dominio desejado.
+
